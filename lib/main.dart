@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 const CircleAvatar(
-                  radius: 40.0,
+                  radius: 45.0,
                   backgroundImage: AssetImage('images/photo.jpg'),
                 ),
                 const Text(
